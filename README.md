@@ -1,7 +1,6 @@
 # 👋 Hola! Soy Camila Barletta
 
-Desarrolladora Frontend en transición a Full Stack con React y Node.js.  
-Actualmente construyendo proyectos reales de ecommerce y aprendiendo backend para crear aplicaciones completas.
+Vengo del mundo de la gestión comercial y el análisis de costos, y hoy aplico esa mirada de negocio al desarrollo web. Me especializo en frontend con React y estoy construyendo mi stack full stack con Node.js.
 
 ---
 
